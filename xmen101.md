@@ -40,4 +40,4 @@
 
 5 Cobra-coral(Poder de fazer chover mas só dentro de ambientes fechados onde estiver, uma vez ao dia e tem q dançar a dança da chuva).
 
-6 Consegue voltar 3 minutos no tempo se tiver uma ereção, mas se voltar mais que 3 vezes num dia você explode.
+6 Paradoxo - Consegue voltar 3 minutos no tempo se tiver uma ereção, mas se voltar mais que 3 vezes num dia você ejacula e explode.
