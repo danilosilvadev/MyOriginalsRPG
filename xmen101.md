@@ -11,7 +11,7 @@
 
 5 Acertar o alvo(Vc acerta qualquer alvo com um projétil num raio de 10m).
 
-6 Ver através de superfícies(Mas se for uma parede quem tiver do outro lado vê vc)
+6 Atravessar paredes(Mas depois de atravessar uma vc fica muito cansado e não mexe um músculo por 10 minutos)
 
 7 
 
