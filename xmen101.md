@@ -27,7 +27,7 @@
 
 5 - Mentalista(Vc pode ler a mente de uma pessoa, mas ela fica sabendo)
 
-6 
+6 - Adoração - Você consegue fazer uma pessoa te idolatrar por 1 hora, mas depois dessa hora todas as pessoas a sua volta te odeiam.
 
 ### Místicos
 1 Irreconhecimento(Poder de não ser reconhecido por uma hora).
@@ -41,3 +41,5 @@
 5 Cobra-coral(Poder de fazer chover mas só dentro de ambientes fechados onde estiver, uma vez ao dia e tem q dançar a dança da chuva).
 
 6 Paradoxo - Consegue voltar 3 minutos no tempo se tiver uma ereção, mas se voltar mais que 3 vezes num dia você ejacula e explode.
+
+7 - Sorte grande - Você faz uma pergunta e rola um d5 o que ativa a habilidade de receber 1 = Você tropeça e derruba um dos outros players, 2 = Um dos seus colegas ativa o poder dele em você(rolar um d(nº the players pra definir isso)), 3 = Você continua na mesma, 4 = Você desativa a habilidade de uma pessoa que você escolher e 5 = você é bem sucedido no que você quer fazer agora.
