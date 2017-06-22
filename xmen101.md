@@ -43,3 +43,5 @@
 6 Paradoxo - Consegue voltar 3 minutos no tempo se tiver uma ereção, mas se voltar mais que 3 vezes num dia você ejacula e explode.
 
 7 - Sorte grande - Você faz uma pergunta e rola um d5 o que ativa a habilidade de receber 1 = Você tropeça e derruba um dos outros players, 2 = Um dos seus colegas ativa o poder dele em você(rolar um d(nº the players pra definir isso)), 3 = Você continua na mesma, 4 = Você desativa a habilidade de uma pessoa que você escolher e 5 = você é bem sucedido no que você quer fazer agora.
+
+8 - Freeze - Você consegue deixar o tempo mais lento se prender a respiração, mas seu fôlego é de apenas 45 segundos no máximo e pra repetir precisa descansar uns 5 minutos.
