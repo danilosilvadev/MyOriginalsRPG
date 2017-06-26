@@ -9,7 +9,7 @@
 
 4 Cura(Mas se curar alguém perde o equivalente da própria vida, e n pode curar a si mesmo).
 
-5 Acertar o alvo(Vc acerta qualquer alvo com um projétil num raio de 10m).
+5 Super cuspe: Consegue cospir e acertar(50% de chance nos alvos joga 1d10) com a saliva que tem a força de um soco.(Fica com a boca seca após 3 cospidas e só recalibra após uns 30 minutos).
 
 6 Atravessar paredes(Mas depois de atravessar uma vc fica muito cansado e não mexe um músculo por 10 minutos)
 
@@ -20,6 +20,9 @@
 9 - Vampiro - Se tocar numa pessoa você absorve a energia dela a fazendo desamaiar, mas depois vomita.
 
 10 - Roubar aparência - Você consegue roubar a aparência de alguém tocando nela, mas ae ela fica com a sua aparência.
+
+11 - Seduto r- libera feromônios no ar seduzindo quem inalar, quanto mais a pessoa inala mais enlouquecida ela se torna. O efeito vale para homens mulheres e animais.
+
 
 ### Mentais-
 
