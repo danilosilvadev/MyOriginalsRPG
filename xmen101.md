@@ -21,7 +21,9 @@
 
 10 - Roubar aparência - Você consegue roubar a aparência de alguém tocando nela, mas ae ela fica com a sua aparência.
 
-11 - Seduto r- libera feromônios no ar seduzindo quem inalar, quanto mais a pessoa inala mais enlouquecida ela se torna. O efeito vale para homens mulheres e animais.
+11 - Sedutor - libera feromônios no ar seduzindo quem inalar, quanto mais a pessoa inala mais enlouquecida ela se torna. O efeito vale para homens mulheres e animais.
+
+12 - Animal: Vira um animal por 15 minutos(2 vezes ao dia) podendo ser 3 no início:(Lesma, gato ou pombo) e pra decidir qual deles joga um d3.
 
 
 ### Mentais-
@@ -58,3 +60,5 @@
 8 - Freeze - Você consegue deixar o tempo mais lento se prender a respiração, mas seu fôlego é de apenas 45 segundos no máximo e pra repetir precisa descansar uns 5 minutos.
 
 9 - Bruxaria - Você consegue evocar uma maldição em alguém que dure um dia, porém tem 50% de chance de dar em você em vez da pessoa.
+
+10 - Steal - Poder de roubar um item de alguém que pode ser usado 3 vezes ao dia, porém sua mão brilha quando faz isso e tem 50% de roubar o item errado.
