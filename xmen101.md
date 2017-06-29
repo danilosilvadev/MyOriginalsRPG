@@ -74,7 +74,7 @@ Vários anos após os primeiros x-men, finalmente os governos assumiram a respon
 
 X-men como Logan, Scott Summers e Professor Xavier são lendas do passado e tem estátuas/quadros por essas escolas como pessoas importantes da história.
 
-Nessas escolas existem treinamentos para testar habilidades, tentar despertá-las, aulas normais e competições entre os alunos que já foram "despertos."
+Nessas escolas existem treinamentos para testar habilidades, tentar despertá-las, aulas normais e competições entre os alunos que já foram "despertos." Os alunos vivem em regime de internato.
 
 Os personagens deste game tem 15/16 anos e estão no 1º ano do ensino médio.
 
