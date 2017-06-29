@@ -78,6 +78,8 @@ Nessas escolas existem treinamentos para testar habilidades, tentar despertá-la
 
 Os personagens deste game tem 15/16 anos e estão no 1º ano do ensino médio.
 
+PS: É possível trocar de poder ou ganhar um novo só que depende das regras da escola, algumas escolas fazem torneios onde o melhor aluno consegue um novo poder outras sorteiam. Mas neste mundo poderes não são eternamente fixos e podem evoluir ou mesmo serem trocados apesar disso ser muito difícil.
+
 # Sistema:
 
 - ATAQUE(FORÇA/MIRA): JOGA 1D6 o resultado sera seu bônus.
