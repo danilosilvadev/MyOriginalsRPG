@@ -78,15 +78,14 @@ Os personagens deste game tem 15/16 anos e estão no 1º ano do ensino médio.
 
 # Sistema:
 
-ATAQUE(FORÇA/MIRA): JOGA 1D6 o resultado sera seu bônus.
-AGILIDADE/DEFESA: JOGA 1D6 o resultado sera seu bônus.
-INTELIGENCIA: JOGA 1D6 o resultado sera seu bônus.
-CARISMA: JOGA 1D6 o resultado sera seu bônus.
-VIDA: COMEÇA COM 20+1 POR NÍVEL.(Até chegar ao level 10).
-POPULARIDADE: JOGA 1D6 o resultado sera seu bônus + NÍVEL - PENALIDADE POR VEXAME.(Isso ajuda nas situações de carisma/inteligência)
-PERÍCIA: SEGUE A SUA CLASSE E PEGA 3 DA SUA ESCOLHA. 
-CADA NÍVEL GANHA +1 PONTO NA SUA PERÍCIA.
-IMPREVISIBILIDADE: Quando o mestre bem entender ele poderá jogar um d10 e se o resultado for maior que 5 acontecerá algo imprevisível que pode complicar a situação dos jogadores, sendo o 10 a pior situação possível e o 1 a melhor.
+- ATAQUE(FORÇA/MIRA): JOGA 1D6 o resultado sera seu bônus.
+- AGILIDADE/DEFESA: JOGA 1D6 o resultado sera seu bônus.
+- INTELIGENCIA: JOGA 1D6 o resultado sera seu bônus.
+- CARISMA: JOGA 1D6 o resultado sera seu bônus.
+- VIDA: COMEÇA COM 20+1 POR NÍVEL.(Até chegar ao level 10).
+- POPULARIDADE: JOGA 1D6 o resultado sera seu bônus + NÍVEL - PENALIDADE POR VEXAME.(Isso ajuda nas situações de carisma/inteligência)
+- PERÍCIA: SEGUE A SUA CLASSE E PEGA 3 DA SUA ESCOLHA.  CADA NÍVEL GANHA +1 PONTO NA SUA PERÍCIA.
+- IMPREVISIBILIDADE: Quando o mestre bem entender ele poderá jogar um d10 e se o resultado for maior que 5 acontecerá algo imprevisível que pode complicar a situação dos jogadores, sendo o 10 a pior situação possível e o 1 a melhor.
 
 # Ficha template:
 
