@@ -62,3 +62,5 @@
 9 - Bruxaria - Você consegue evocar uma maldição em alguém que dure um dia, porém tem 50% de chance de dar em você em vez da pessoa.
 
 10 - Steal - Poder de roubar um item de alguém que pode ser usado 3 vezes ao dia, porém sua mão brilha quando faz isso e tem 50% de roubar o item errado.
+
+11 - Spectro - Você consegue fazer sua alma abandonar seu corpo e flutuar/atravessar paredes durante 3 minutos porém seu corpo perde os sentidos e depois do tempo você é sugado de volta pra ele, uma vez ao dia.
