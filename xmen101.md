@@ -1,5 +1,11 @@
 # X-men 101
 
+### Escolha de poderes:
+
+Você escolhe a classe e aê joga um dado pra ver em que poder cai daquela classe.
+
+PS: Não podem haver poderes repetidos na partida.
+
 ## Poderes:
 
 ### Físicos - 
