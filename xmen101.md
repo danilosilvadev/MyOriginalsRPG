@@ -45,7 +45,7 @@
 
 2 Clarividência(Poder de falar com os espíritos no local mas tem q convencer eles a te darem informação/ajudar)
 
-3 Magia negra(Poder de dar diarréia/se mijar/ejaculação precoce instantânea a alguém mas tem 50% de chance de dar em vc em vez do alvo, só uma vez por dia).
+3 Magia negra(Poder de dar diarréia instantânea a alguém mas tem 50% de chance de dar em vc em vez do alvo, só uma vez por dia).
 
 4 Sexchange(poder de trocar de sexo por uma hora)
 
