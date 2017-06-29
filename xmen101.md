@@ -102,7 +102,11 @@ Os personagens deste game tem 15/16 anos e estão no 1º ano do ensino médio.
 **3 Fraquezas:** Descreva fraquezas pessoais que ajudem você a criar a personalidade do seu personagem.
 
 **ATAQUE(FORÇA/MIRA):** 6(valor de exemplo)
+
 **AGILIDADE:** 3(valor de exemplo)
+
 **INTELIGENCIA:** 3(valor de exemplo)
+
 **POPULARIDADE:**5(valor de exemplo)
+
 **VIDA:** 21(valor de exemplo)
