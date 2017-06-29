@@ -64,3 +64,46 @@
 10 - Steal - Poder de roubar um item de alguém que pode ser usado 3 vezes ao dia, porém sua mão brilha quando faz isso e tem 50% de roubar o item errado.
 
 11 - Spectro - Você consegue fazer sua alma abandonar seu corpo e flutuar/atravessar paredes durante 3 minutos porém seu corpo perde os sentidos e depois do tempo você é sugado de volta pra ele, uma vez ao dia.
+
+
+# História:
+
+Vários anos após os primeiros x-men, finalmente os governos assumiram a responsabilidade de educar os mutantes criando escolas especiais. Através de um exame de sangue descobriam se aquela pessoas ia aflorar o poder mutante em algum momento e a transferiam pra uma dessas escolas. A X-men101 é a centésima primeira escola deste tipo e comporta pessoas com poderes e pessoas que ainda não despertaram seu gene mutante. Só uma minoria desperta antes da faculdade.
+
+X-men como Logan, Scott Summers e Professor Xavier são lendas do passado e tem estátuas/quadros por essas escolas como pessoas importantes da história.
+
+Nessas escolas existem treinamentos para testar habilidades, tentar despertá-las, aulas normais e competições entre os alunos que já foram "despertos."
+
+Os personagens deste game tem 15/16 anos e estão no 1º ano do ensino médio.
+
+# Sistema:
+
+ATAQUE(FORÇA/MIRA): JOGA 1D6 o resultado sera seu bônus.
+AGILIDADE/DEFESA: JOGA 1D6 o resultado sera seu bônus.
+INTELIGENCIA: JOGA 1D6 o resultado sera seu bônus.
+CARISMA: JOGA 1D6 o resultado sera seu bônus.
+VIDA: COMEÇA COM 20+1 POR NÍVEL.(Até chegar ao level 10).
+POPULARIDADE: JOGA 1D6 o resultado sera seu bônus + NÍVEL - PENALIDADE POR VEXAME.(Isso ajuda nas situações de carisma/inteligência)
+PERÍCIA: SEGUE A SUA CLASSE E PEGA 3 DA SUA ESCOLHA. 
+CADA NÍVEL GANHA +1 PONTO NA SUA PERÍCIA.
+IMPREVISIBILIDADE: Quando o mestre bem entender ele poderá jogar um d10 e se o resultado for maior que 5 acontecerá algo imprevisível que pode complicar a situação dos jogadores, sendo o 10 a pior situação possível e o 1 a melhor.
+
+# Ficha template:
+
+**Bio:** SUa história de vida aqui.
+
+**Poder:** Vampiro
+
+**Level:** 1
+
+**Classe:** fisica
+
+**3 Objetivos:** Descreva objetivos pessoais que ajudem você a criar a personalidade do seu personagem.
+
+**3 Fraquezas:** Descreva fraquezas pessoais que ajudem você a criar a personalidade do seu personagem.
+
+**ATAQUE(FORÇA/MIRA):** 6(valor de exemplo)
+**AGILIDADE:** 3(valor de exemplo)
+**INTELIGENCIA:** 3(valor de exemplo)
+**POPULARIDADE:**5(valor de exemplo)
+**VIDA:** 21(valor de exemplo)
