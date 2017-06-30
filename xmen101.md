@@ -4,7 +4,7 @@
 
 Você escolhe a classe e aê joga um dado pra ver em que poder cai daquela classe.
 
-PS: Não podem haver poderes repetidos na partida.
+PS: Não podem haver poderes repetidos na partida, e a ordem dos jogadores vai ser decidida jogando iniciativa.
 
 ## Poderes:
 
