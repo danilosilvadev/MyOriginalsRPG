@@ -121,3 +121,17 @@ PS: É possível trocar de poder ou ganhar um novo só que depende das regras da
 **POPULARIDADE:** 5(valor de exemplo)
 
 **VIDA:** 21(valor de exemplo)
+
+# NPC's importantes:
+
+Outros Alunos:
+Golias: Aluno briguento que mede 1,80 apesar de ter 14 anos e sua habilidade é de não sentir dor.
+
+
+Professores:
+
+
+# Perícias e Ítens:
+
+
+# Moeda:
