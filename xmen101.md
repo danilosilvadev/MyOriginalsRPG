@@ -33,6 +33,7 @@ PS: Não podem haver poderes repetidos na partida, e a ordem dos jogadores vai s
 
 12 - Animal: Vira um animal por 15 minutos(2 vezes ao dia) podendo ser 3 no início:(Lesma, gato ou pombo) e pra decidir qual deles joga um d3.
 
+13 - Sangria - Se alguém tiver contato com seu sangue ela se torna te vê seu pior medo, só pode ativar 2 vezes ao dia.
 
 ### Mentais-
 
