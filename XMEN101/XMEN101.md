@@ -118,7 +118,7 @@ PS: É possível trocar de poder ou ganhar um novo só que depende das regras da
 
 **INTELIGENCIA:** 3(valor de exemplo)
 
-**POPULARIDADE:** 5(valor de exemplo)
+**POPULARIDADE:** 5(valor de exemplo, jogue um d20, a pessoa mais popular tem 50)
 
 **VIDA:** 21(valor de exemplo)
 
@@ -126,6 +126,10 @@ PS: É possível trocar de poder ou ganhar um novo só que depende das regras da
 
 Outros Alunos:
 Golias: Aluno briguento que mede 1,80 apesar de ter 14 anos e sua habilidade é de não sentir dor.
+
+Professor Miazaki - Personalidade tipo Snape, poder mental de paralisar as pessoas.
+
+Lana: Garota mais popular da escola e tem o poder de voar.
 
 
 Professores:
