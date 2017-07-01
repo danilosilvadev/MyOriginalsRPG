@@ -68,7 +68,7 @@ PS: Não podem haver poderes repetidos na partida, e a ordem dos jogadores vai s
 
 8 - Quick silver - Você consegue deixar o tempo mais lento se prender a respiração, mas seu fôlego é de apenas 60 segundos no máximo uma vez ao dia.
 
-9 - Bruxaria - Você consegue evocar uma maldição em alguém que dure um dia, porém tem 50% de chance de dar em você em vez da pessoa.
+9 - Bruxaria - Você consegue evocar uma maldição em alguém que dure um dia(a maldição tem que se ativar decorrente de uma ação do usuário), porém tem 40% de chance de dar em você em vez da pessoa.
 
 10 - Steal - Poder de roubar um item de alguém que pode ser usado 3 vezes ao dia, porém sua mão brilha quando faz isso e tem 50% de roubar o item errado.
 
