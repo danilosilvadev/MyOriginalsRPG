@@ -131,8 +131,7 @@ Professor Miazaki - Personalidade tipo Snape, poder mental de paralisar as pesso
 
 Lana: Garota mais popular da escola e tem o poder de voar.
 
-
-Professores:
+Diretor Meia-noite: Tem o poder de trocar o poder de alguém, evoluir ou mesmo tirar permanentemente ou temporariamente.
 
 
 # Perícias e Ítens:
