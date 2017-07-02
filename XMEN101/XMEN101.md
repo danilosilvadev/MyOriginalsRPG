@@ -125,7 +125,7 @@ PS: É possível trocar de poder ou ganhar um novo só que depende das regras da
 # NPC's importantes:
 
 Outros Alunos:
-Golias: Aluno briguento que mede 1,80 apesar de ter 14 anos e sua habilidade é de não sentir dor.
+Golias: Aluno briguento que mede 1,80 apesar de ter 14 anos e sua habilidade é de não sentir dor. Bônus de força de 6 e se usar a habilidade 10.
 
 Professor Miazaki - Personalidade tipo Snape, poder mental de paralisar as pessoas.
 
