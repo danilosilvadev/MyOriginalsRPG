@@ -43,7 +43,7 @@ PS: Não podem haver poderes repetidos na partida, e a ordem dos jogadores vai s
 
 3 Teleporte(Porém não consegue decidir o lugar onde vai parar num raio de 1km).
 
-4 Telecinese(Mas só funciona com comida).
+4 Telecinese(Mas só funciona com comida e uma vez em cada comida).
 
 5 - Mentalista(Vc pode ler a mente de uma pessoa, mas ela fica sabendo)
 
