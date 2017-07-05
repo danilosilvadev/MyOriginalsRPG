@@ -18,6 +18,8 @@
 
 **INTELIGENCIA:** 3(valor de exemplo)
 
+**CARISMA:** 3(valor de exemplo)
+
 **POPULARIDADE:** 5(valor de exemplo)
 
 **VIDA:** 21(valor de exemplo)
