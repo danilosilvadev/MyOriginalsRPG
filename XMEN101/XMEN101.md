@@ -118,6 +118,8 @@ PS: É possível trocar de poder ou ganhar um novo só que depende das regras da
 
 **INTELIGENCIA:** 3(valor de exemplo)
 
+**CARISMA:** 3(valor de exemplo)
+
 **POPULARIDADE:** 5(valor de exemplo, jogue um d20, a pessoa mais popular tem 50 e se chegar a 0 você é expulso da escola)
 
 **VIDA:** 21(valor de exemplo)
