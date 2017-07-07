@@ -35,6 +35,8 @@ PS: Não podem haver poderes repetidos na partida, e a ordem dos jogadores vai s
 
 13 - Sangria - Se alguém tiver contato com seu sangue ela te vê como pior medo dela, mas você joga 1d10 e recebe este dano.
 
+14 - Alahu Akbar - Seu nariz é como uma bomba e quando espirra dá um d10 de dano em quem tiver apontado e um d5 em todos as pessoas próximas. Porém você recebe um d20.
+
 ### Mentais-
 
 1 Possuir(mas só por 5 segundos e seu corpo perde o controle durante.)
