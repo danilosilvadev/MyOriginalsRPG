@@ -81,7 +81,7 @@ professor de educação física-  mal humorado, sempre gritando, rabugento.
 Poder: aumenta a disposição, acelera o metabolismo de quem ele toca doando energia de seu próprio corpo.
 
 ### Cristopher
-professor de ciências humanas, amigável, boa aparência.  
+professor de geografia, amigável, boa aparência.  
 Poder:  Quando abre uma porta pode escolher onde ela vai dar, quase um teletransporte.
  
 ### Ana
