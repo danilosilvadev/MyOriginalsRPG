@@ -32,9 +32,10 @@ Poder: pode produzir bolhas quem as estourar terá algum sentido roubado por alg
 gêmeos siameses  com duas cabeças dividindo o mesmo corpo. Geralmente estão discutindo, um metido a valentão e o outro tímido/sério.  
 Poder: Atração é Repulsão- Harui consegue atrai pequenos objetos, Burie consegue repelir, só um pode usar a habilidade tendo um tempo para o outro poder usar.
 
-### Deyse- gordinha, esperta, bem humorada. 
- Está sempre com seus doces, mas não gosta de dividir com ngm.
- Poder:  consegue amaciar ou deixar elástica superfícies duras
+### Deyse
+gordinha, esperta, bem humorada. Está sempre com seus doces, mas não gosta de dividir com ngm.
+Poder:  consegue amaciar ou deixar elástica superfícies duras
+
 ### Sávio 
 extravagante, gay, bom gosto para moda.    
 Poder: controla fontes de luz podendo apagar ou acender, também pode fazer o próprio corpo brilhar.
