@@ -52,7 +52,7 @@ Poder: controla fontes de luz podendo apagar ou acender, também pode fazer o pr
 preconceituoso, arrogante, orgulhoso. Acredita na superioridade mutante, odeia humanos, e mutantes filhos de humanos.
 Poder:  magnetiza alguém a partir do toque.
 
-### Cassia 
+### Keiko 
 feminista extrema, encrenqueira, ativista. Vive postando textos nas redes sociais, e odeia que garotos tentem ajuda lá.  
 Poder:  Grito sônico, mas só funciona para uma palavra, ela escolheu  MACHISTAAAA!
 
