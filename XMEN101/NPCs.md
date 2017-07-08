@@ -48,8 +48,8 @@ Poder:  magnetiza alguém a partir do toque.
 feminista extrema, encrenqueira, ativista. Vive postando textos nas redes sociais, e odeia que garotos tentem ajuda lá.  
 Poder:  Grito sônico, mas só funciona para uma palavra, ela escolheu  MACHISTAAAA!
 
-### Jonny- alto, desengonçado, calmo, pele azul.  
-Sofre bullying quase todos os dias, ainda assim é bondoso com todos, não usa seus poderes para se defender devido à consequências.  
+### Jonny
+alto, desengonçado, calmo, pele azul. Sofre bullying quase todos os dias, ainda assim é bondoso com todos, não usa seus poderes para se defender devido à consequências.  
 Poder: Não revelado
 
 ### Olavinho
