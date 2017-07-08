@@ -1,5 +1,13 @@
 # Alunos
 
+### Golias
+Aluno briguento que mede 1,80 apesar de ter 14 anos. 
+habilidade é de não sentir dor. Bônus de força de 6 e se usar a habilidade 10.
+
+### Lana
+Garota mais popular da escola e patricinha líder das garotas populares.
+Poder: voar.
+
 ### Sofie 
 tímida e misteriosa, fica sempre isolada devido a sua habilidade. 
 Poder:  Áurea de azar as ações realizadas perto de sofie tendem a dar errado provocando pequenos acidentes ex: morder a língua ou cair.
@@ -79,3 +87,12 @@ Poder:  Quando abre uma porta pode escolher onde ela vai dar, quase um teletrans
 ### Ana
 merendeira, calma, amigável e extremamente bonita e jovem.
 Poder:  Ferver a água com a mente
+
+### Professor Miazaki
+Personalidade tipo Snape
+Poder: mental de paralisar as pessoas.
+
+### Diretor Meia-noite
+Personalidade estranha.
+Tem o poder de trocar o poder de alguém, evoluir ou mesmo tirar permanentemente ou temporariamente.
+
