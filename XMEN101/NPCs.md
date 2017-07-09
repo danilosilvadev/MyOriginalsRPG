@@ -25,7 +25,7 @@ japa, estressado, estudioso, quieto. Quase sempre está na biblioteca.
 Poder:  consegue manipular papel porém somente se estiverem como origamis
 
 ### Lorenzo
-zuero, dançarino,  tem  um canal de vlog na internet chamado cabra da peste.  
+zuero, dançarino,  tem  um canal de vlog na internet.  
 Poder:  Invoca um objeto desconhecido de seu chapéu
 
 ### Ian- 
